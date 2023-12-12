@@ -4,7 +4,7 @@
 """
 Created on Sat Mar 21 16:22:26 2020
 
-@author: abramo
+@author: abramo, modified by ngyenge
 """
 
 import numpy as np
