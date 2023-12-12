@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+"""
+Created on Thu Jun 29 11:35:36 2023
+
+@author: ngyenge
+"""
+
 import dicom2jpg
 
 dicom_dir = user_path
