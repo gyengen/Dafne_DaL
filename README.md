@@ -101,4 +101,17 @@ data = dataset.data_read()
 ```
 Now `data` can be used for training or evaluation 
 
-
+# Training Folder Structure
+## patient1
+ ### data
+ ### label
+## patient2
+ ### data
+ ### label
+## patient3
+ ### data
+ ### label
+## ...
+## patientn
+ ### data
+ ### label
