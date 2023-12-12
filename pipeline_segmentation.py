@@ -2,7 +2,7 @@
 # coding: utf-8
 
 """
-Created on Sat Mar 21 16:22:26 2020
+Created on Sat Mar 21 2020
 
 @author: abramo, modified by ngyenge
 """
